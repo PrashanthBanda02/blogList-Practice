@@ -1,0 +1,9 @@
+.blogList-container {
+  height: 70vh;
+  width: 90vw;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
